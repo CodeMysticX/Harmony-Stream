@@ -1,7 +1,13 @@
-
+<div align="center" width="500">
+  <img src="Harmony-Stream.png" alt="Harmony-Stream Logo">
+</div>
 
 ## Harmony-Stream 🎬🎶
 Welcome to Harmony-Stream, your ultimate destination for a seamless cinematic and musical experience! Dive into a world of blockbuster movies, hilarious cartoons, vibrant music, and much more. Developed as a college project by a team of passionate movie and music enthusiasts, Harmony-Stream aims to provide you with an immersive journey through the world of entertainment.
+
+<div align="center" width="500">
+  <img src="Harmony-Stream.png" alt="Harmony-Stream Logo">
+</div>
 
 ## Features: 
 # 🎥 Blockbuster Movies:
